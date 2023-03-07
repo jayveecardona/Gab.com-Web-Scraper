@@ -1,4 +1,4 @@
-# Gab.com-Web-Scraper
+# Gab.com Web Scraper
 
 You may simply open Gab Web Scraper.pdf for easier viewing.
 
